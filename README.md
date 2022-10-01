@@ -37,3 +37,6 @@ The slopes of the variables are shown to be non-zero.
 This linear model does appear to predict the mpg of the prototypes effectively due to the mpg being statistically significant.
 
 
+## Summary Statistics on Suspension Coils
+
+
