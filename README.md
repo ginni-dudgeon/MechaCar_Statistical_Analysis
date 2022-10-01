@@ -55,3 +55,35 @@ The numbers in this dataframe are similar to the above.
 
 Lots 1 and 2 appear to meet this design specification. Lot 1 has a variance or around 1 and lot 2 has a variance of 7. However, lot 3 does not appear to meet this. The variance for lot 3 is 170. Collectively the lots may not meet the design specification. 
 
+
+## T-Tests on Suspension Coils
+
+## T-test for all lots
+
+All Manufacturing Lots: p-value = .6028, alpha = .05
+.60 > .05, not statistically significant. Normal distribution is assumed. Mean is within the confidence level.
+
+<img width="527" alt="T test for all lots" src="https://user-images.githubusercontent.com/105091538/193432077-56fbacab-b993-4c10-b8a5-06e6962eccde.png">
+
+## T-test for Lot 1
+
+Lot 1: p-value = 1, alpha = .05
+1 > .05, not statistically significant. Normal distribution is assumed. Mean is within the confidence level.
+
+<img width="597" alt="T test for lot 1" src="https://user-images.githubusercontent.com/105091538/193432094-9c136d92-7e1f-4073-a0b4-5907b24e41a1.png">
+
+## T-test for Lot 2
+
+Lot 2: p-value = .6072, alpha = .05
+.60 > .05, not statistically significant. Normal distribution is assumed. Mean is within the confidence level.
+
+<img width="614" alt="T test for Lot 2" src="https://user-images.githubusercontent.com/105091538/193432110-da64d571-3e9a-410d-94ba-96891dc9c615.png">
+
+## T-test for Lot 3
+
+Lot 3: p-value = .04168, alpha = .05
+.04 < .05, statistically significant. Normal distribution cannot be assumed. Mean is within the confidence level.
+
+<img width="628" alt="T test for lot 3" src="https://user-images.githubusercontent.com/105091538/193432128-12782bba-7625-4b2b-a850-921b9a94662f.png">
+
+
