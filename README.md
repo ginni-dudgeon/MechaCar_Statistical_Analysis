@@ -4,6 +4,10 @@
 
 Linear Regression
 
+Data placed into Dataframe
+
+<img width="560" alt="Regression Dataframe" src="https://user-images.githubusercontent.com/105091538/193431553-e4527e9f-360a-471b-95ed-72d9ea6ddf9b.png">
+
 R was used to get the following coefficients.
 
 <img width="634" alt="Coefficients" src="https://user-images.githubusercontent.com/105091538/193431278-5845e6d3-314a-45cb-a5b2-122a4d0c9c2d.png">
