@@ -86,4 +86,4 @@ Lot 3: p-value = .04168, alpha = .05
 
 <img width="628" alt="T test for lot 3" src="https://user-images.githubusercontent.com/105091538/193432128-12782bba-7625-4b2b-a850-921b9a94662f.png">
 
-
+Overall the null hypothesis cannot be rejecte due to lots 1 and 2 showing a similar distribution. 
