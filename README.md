@@ -87,3 +87,20 @@ Lot 3: p-value = .04168, alpha = .05
 <img width="628" alt="T test for lot 3" src="https://user-images.githubusercontent.com/105091538/193432128-12782bba-7625-4b2b-a850-921b9a94662f.png">
 
 Overall the null hypothesis cannot be rejecte due to lots 1 and 2 showing a similar distribution. 
+
+## Study Design: MechaCar vs Competition
+
+There are several metrics that should be considered when comparing MechaCar to competitos. Consumers researching cars would be most interested in include cost, car color, city fuel efficiency, highway fuel efficiency, horsepower, maintenance cost, and safety rating.
+
+What metric or metrics are you going to test?
+The most important metrics to test are safety ratings and highway fuel efficiency.
+
+What is the null hypothesis or alternative hypothesis?
+The null hypothesis would be zero. The alternative hypothesis would be a number other than zero.
+
+What statistical test would you use to test the hypothesis? And why?
+A multiple linear regression using statittics would be the best way to test the hypothesis.
+
+What data is needed to run the statistical test?
+The data needed to run a statistical test is a sample of cars from both MechaCar and a competitor. Information included woult be the safety ratings and highway fuel efficiency.
+
